@@ -1,6 +1,6 @@
 # Kinect Sandbox Driving Sim
 
-A simple driving game made in Unity that generates terrain in real-time using depth stream data from a Kinect. Exe and build_data folders are both required to be in the same directory before running.
+A simple driving game made in Unity that generates terrain in real-time using depth stream data from a Kinect. **Exe and build_data folders are both required to be in the same directory before running.**
 
 This project uses Unity 5.5.2f1, the 1414 Kinect model (the original for the XBox 360),the corresponding Kinect SDK 1.7/1.8, and the Unity Wrapper Package (for SDK 1.7). Links for the last two and API documentation for the wrapper package can be found here: http://wiki.etc.cmu.edu/unity3d/index.php/Microsoft_Kinect_-_Microsoft_SDK.
 
