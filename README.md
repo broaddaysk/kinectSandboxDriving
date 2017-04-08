@@ -8,7 +8,7 @@ When running the release build provided here, make sure the Kinect is kept on a 
 
 #### Build Notes:
 
-![alt tag](http://imgur.com/a/XME2X)
+![alt text](http://imgur.com/a/XME2X)
 Building a 2ft x 2ft wooden box.
 
 ![alt tag](http://imgur.com/a/bU2DF)
