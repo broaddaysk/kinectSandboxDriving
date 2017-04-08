@@ -11,7 +11,7 @@ When running the release build provided here, make sure the Kinect is kept on a 
 ![alt text](http://imgur.com/a/XME2X "sample title")
 Building a 2ft x 2ft wooden box.
 
-![alt tag](http://imgur.com/a/bU2DF)
+![alt tag](http://i.imgur.com/c7veHXs.jpg)
 Doing some initial testing with the Kinect Toolkit to determine the ideal height for the Kinect.
 
 ![alt tag](http://imgur.com/a/dxdRY)
