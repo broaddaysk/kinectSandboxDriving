@@ -44,4 +44,4 @@ Testing various parameters for smoothing filters to deal with noise, and finding
 ![alt tag](http://i.imgur.com/JboODbO.jpg)
 Getting fairly close to the final build. modifyTerrain.cs now uses a temporal and regular smoothing filter, used on the depth stream to update the terrain once every second. By sacrificing update speed for flatter/stabler terrain, we get a better overall driving experience.
 
-Thanks to Sasank Madineri for providing the steering script.
+Thanks to Sasank Madineni for providing the steering script.
